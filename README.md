@@ -1,4 +1,4 @@
-<align="center"> Hola! 👋
+<h2 align="center"> Hola! 👋 .</h2>
 
 En esto estoy trabajando ahora mismo:
 
