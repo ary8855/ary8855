@@ -1,4 +1,4 @@
-<h2 align="center"> Hello! 👋</h2>
+<h1 align="center"> Hello! 👋</h1>
 
 I'm Ary Femenía, I'm currently studying systems engineering and also a full stack programmer career.
 
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Conctact
+## Conctact:
 [Linkedin](https://www.linkedin.com/in/aryfemenia/)
 
-## Coding info
+## Coding info:
 <a href="https://github.com/ary8855/ary8855">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ary8855&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="211px"/>
 </a>
