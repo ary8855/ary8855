@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! 👋</h1>
 
-I'm Ary Femenía, I'm currently studying systems engineering and also a full stack programmer career.
+I'm Ary Femenía, currently studying Systems Engineering and also a Full Stack career.
 
 ## I'm working on the following:
 <!--
