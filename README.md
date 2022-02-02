@@ -20,3 +20,16 @@ Here are some ideas to get you started:
 
 ## Conctact
 [Linkedin](https://www.linkedin.com/in/aryfemenia/)
+
+
+<a href="https://github.com/Dunglita/Dunglita">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunglita&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="211px"/>
+</a>
+ <a href="https://github.com/anuraghazra/github-readme-stats" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dunglita&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="211px" width="540"/>
+</a>
+</br>
+</br>
+<a href="https://github.com/Dunglita#hello-there-general-kenobi">
+<img align="right" src="https://user-images.githubusercontent.com/83776673/130362732-2bf87472-7046-48a9-b9ea-6017b8dae060.png" alt="to top" height="40px" width="40px" >
+</a>
