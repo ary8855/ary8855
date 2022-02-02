@@ -1,6 +1,8 @@
-<h2 align="center"> Hola! 👋 .</h2>
+<h2 align="center"> Hello! 👋</h2>
 
-En esto estoy trabajando ahora mismo:
+I'm Ary Femenía, I'm currently studying systems engineering and also a full stack programmer career.
+
+##I'm working on the following:
 
 <!--
 **ary8855/ary8855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+## Conctact
+https://www.linkedin.com/in/aryfemenia/
