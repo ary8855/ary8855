@@ -29,6 +29,3 @@ Here are some ideas to get you started:
 </a>
 </br>
 </br>
-<a href="https://github.com/ary8855#hello-there-general-kenobi">
-<img align="right" src="https://user-images.githubusercontent.com/83776673/130362732-2bf87472-7046-48a9-b9ea-6017b8dae060.png" alt="to top" height="40px" width="40px" >
-</a>
