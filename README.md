@@ -3,13 +3,13 @@
 I'm Ary Femenía, currently studying Systems Engineering and also a Full Stack career.
 
 ## I'm working on the following:
-+JAVA
-
 +Web design
 
 +JAVASCRIPT
 
 +Python
+
++JAVA
 
 <!--
 **ary8855/ary8855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
