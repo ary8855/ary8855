@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! 👋</h1>
 
-I'm Ary Femenía, currently studying Informatics Engineering.
+I'm Ary Femenía, currently studying Engineering Informatics.
 
 ## I'm working on the following:
 +Web design
